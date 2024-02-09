@@ -1,0 +1,12 @@
+.Menu {
+
+  color: rgb(254, 139, 51);
+  font-size: large;
+  height: 100%;
+}
+
+.menu-link {
+  text-decoration: none; 
+  color: white;
+  font-size: medium;
+}
